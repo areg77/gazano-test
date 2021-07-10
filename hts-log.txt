@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Jun 2020 22:38:38 at https://codingeek.net/html/gazania/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codingeek.net/html/gazania/ -O1 "C:\My Web Sites\new ffrose" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:40:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/slider/home-1/2.jpg (from https://codingeek.net/html/gazania/)
+22:40:36	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/about-us.html (from https://codingeek.net/html/gazania/)
+22:40:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/blog/3.png (from https://codingeek.net/html/gazania/)
+22:40:40	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:41	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-bg_glass_95_fef1ec_1x400.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:41	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_469bdd_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:41	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_d8e7f3_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:41	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_6da8d5_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:41	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_217bc0_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:42	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_f9bd01_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:42	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_2e83ff_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:42	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/images/ui-icons_cd0a0a_256x240.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:42	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/assets/css/owl.video.play.png (from https://codingeek.net/html/gazania/assets/css/css-plugins.css)
+22:40:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://codingeek.net/html/gazania/assets/css/all-icon-font.css)
+22:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/fonts/themify.woff?-fvbane (from https://codingeek.net/html/gazania/assets/css/all-icon-font.css)
+22:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/fonts/themify.svg?-fvbane (from https://codingeek.net/html/gazania/assets/css/all-icon-font.css)
+22:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/bg/breadcrumb/1.jpg (from https://codingeek.net/html/gazania/assets/css/style.css)
+22:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/slider/home-3/4.jpg (from https://codingeek.net/html/gazania/index-3.html)
+22:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/slider/home-4/1.png (from https://codingeek.net/html/gazania/index-4.html)
+22:40:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/slider/home-4/2.png (from https://codingeek.net/html/gazania/index-4.html)
+22:40:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/others/sign-up-2.png (from https://codingeek.net/html/gazania/sign-in.html)
+22:40:47	Error: 	"Not Found" (404) at link https://codingeek.net/html/gazania/popper.js (from https://codingeek.net/html/gazania/assets/js/jquery-plugins.js)
+22:40:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://codingeek.net/html/gazania/assets/css/all-icon-font.css)
+22:40:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/fonts/themify.woff?-fvbane (from https://codingeek.net/html/gazania/assets/css/all-icon-font.css)
+22:40:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://codingeek.net/html/gazania/assets/img/bg/breadcrumb/1.jpg (from https://codingeek.net/html/gazania/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 10 seconds : 224 links scanned, 198 files written (15338815 bytes overall) [13131169 bytes received at 101008 bytes/sec], 5231303 bytes transferred using HTTP compression in 81 files, ratio 28%, 11.7 requests per connection
+(12 errors, 13 warnings, 0 messages)

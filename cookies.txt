@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+codingeek.net	TRUE	/	FALSE	1999999999	PHPSESSID	c77ab2b4882fb8db55a8a46e23309c85
+codingeek.net	TRUE	/	FALSE	1999999999	SERVERID112361	284011
+

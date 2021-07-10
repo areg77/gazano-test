@@ -1,0 +1,1 @@
+$codingeek="https://codingeek.net/"; $buynow="https://themeforest.net/item/gazania-flower-shop-sass-html-template/24857185";
